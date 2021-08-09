@@ -1,4 +1,4 @@
--- Q1
+--  Q1
 
 SELECT COUNT(salary)
 FROM employees
